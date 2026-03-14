@@ -5,11 +5,11 @@ jobs:
       - image: fr3akyphantom/droid-builder:latest
     environment:
       TERM: "xterm-256color"
-      GitHubMail: "rokibhasansagar2014@outlook.com"
-      GitHubName: "rokibhasansagar"
-      REPO: "device_xiaomi_beryllium"
-      VENDOR: "xiaomi"
-      CODENAME: "beryllium"
+      GitHubMail: "pilopilosimon1990@gmail.com"
+      GitHubName: "nino088"
+      REPO: "device_itel_P661N"
+      VENDOR: "itel"
+      CODENAME: "P661N"
       # FLAVOR: "userdebug"
     working_directory: /home/builder/shrp/
     steps:
